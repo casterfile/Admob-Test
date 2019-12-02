@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Extensions/GoogleMobileAd/Example/Scripts/GoogleAdsExample.cs">
+    <Files>
+      <File FileName="Assets/_MyAsset/_Script/AdsGoogleMobile.cs" Line="27" Column="60" />
+      <File FileName="Assets/Extensions/GoogleMobileAd/Example/Scripts/GoogleAdsExample.cs" Line="326" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
